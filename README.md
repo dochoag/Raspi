@@ -16,7 +16,7 @@ Raspberry Pi Pico microcontroller SDK installacion and first use with VScode(C++
 ```
 
 
-## Create a first proyect
+## Create first proyect
 
 make a directory and main.c file, open with VSCode.
 
